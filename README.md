@@ -6,6 +6,10 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 
 ## installing
 
+
+### Easy Way
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/athul1706/PublicLeech)
+### Hard Way
 ### The Eas(iest) Way
 
 - Install Docker by following the [official docker docs](https://docs.docker.com/engine/install/debian/)
