@@ -16,8 +16,7 @@
 #  along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 import os
-from PIL import Image
-from publicleechgroup import DOWNLOAD_LOCATION
+from config import DOWNLOAD_LOCATION
 from publicleechgroup.amocmadin import Loilacaztion
 
 
